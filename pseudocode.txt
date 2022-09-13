@@ -1,2 +1,4 @@
 READ AND WRITE "todo" with string
 READ AND WRITE "dateMustBeFinished" with date
+STORE "todo" with "doing home work"
+STORE "dateMustBeFinished" with 2022-09-14
