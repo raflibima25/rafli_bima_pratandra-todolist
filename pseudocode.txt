@@ -1,0 +1,2 @@
+READ AND WRITE "todo" with string
+READ AND WRITE "dateMustBeFinished" with date
