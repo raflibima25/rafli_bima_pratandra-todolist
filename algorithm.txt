@@ -1,0 +1,4 @@
+1. Mulai
+2. Masuk aplikasi
+3. Input apa yang ingin kamu lakukan
+4. Input tanggal akan selesai
